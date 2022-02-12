@@ -1,0 +1,1 @@
+web: gunicorn traffic_lp.wsgi --log-file -
